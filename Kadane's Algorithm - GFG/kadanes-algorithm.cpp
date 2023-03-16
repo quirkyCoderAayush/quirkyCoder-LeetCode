@@ -12,10 +12,10 @@ class Solution{
     long long maxSubarraySum(int arr[], int n){
         
         // Your code here
-        int curr=0, ans = INT_MIN;
+        int curr = 0, ans = INT_MIN;
         for(int i=0; i<n; i++)
         {
-            if(arr[i] <= curr+arr[i]) curr=curr+arr[i];
+            if(arr[i] <= curr + arr[i]) curr=curr+arr[i];
             else curr = arr[i];
             if(ans < curr) ans = curr;
         }
