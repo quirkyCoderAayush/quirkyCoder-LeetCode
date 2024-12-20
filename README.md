@@ -9,6 +9,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -23,4 +24,8 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
