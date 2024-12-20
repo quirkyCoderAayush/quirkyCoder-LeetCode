@@ -10,6 +10,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
