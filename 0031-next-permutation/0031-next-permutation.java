@@ -3,11 +3,9 @@ class Solution {
         // nums = [1, 5, 4, 3, 2]   2 3 1 4 
         int n = nums.length;
         int i=n-2;
-        for(; i>=0; i--) {
-            if(nums[i]<nums[i+1]) break;
-        }
-        if(i==-1) {
-            reverse(nums, 0, n-1);
+
+        while (i >= 0 && nums[i] >= nums[i + 1]) {
+            i--;
         }
 
         if(i>=0) {
@@ -16,20 +14,17 @@ class Solution {
                 j--;
             }
             swap(nums, i, j);
-            reverse(nums, i+1, n-1);
         }
+        reverse(nums, i+1, n-1);
     }
     private void swap(int[] nums, int i, int j) {
         int temp = nums[i];
         nums[i] = nums[j];
         nums[j] = temp;
     }
-    private void reverse(int[] nums, int i, int j) {
-        int left=i, right=j;
-        while(left<=right) {
-            int temp = nums[left];
-            nums[left++] = nums[right];
-            nums[right--] = temp;
+    private void reverse(int[] nums, int left, int right) {
+        while (left < right) {
+            swap(nums, left++, right--);
         }
     }
 }
