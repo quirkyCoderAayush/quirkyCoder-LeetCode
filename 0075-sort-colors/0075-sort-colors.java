@@ -2,16 +2,24 @@ class Solution {
     public void sortColors(int[] nums) {
         int n = nums.length;
 
-        Map<Integer, Integer> map = new TreeMap<>();
-        for(int num: nums) map.put(num, map.getOrDefault(num,0)+1);
+        int left=0, mid=0, right=n-1;
 
-        int pos = 0;
-        for(Map.Entry<Integer, Integer> entry: map.entrySet()) {
-            int num = entry.getKey();
-            int cnt = entry.getValue();
-
-            for(int i=0; i<cnt; i++) {
-                nums[pos++] = num;
+        while(mid<=right) {
+            if(nums[mid] == 0) {
+                int temp=nums[left];
+                nums[left] = nums[mid];
+                nums[mid] = temp;
+                left++;
+                mid++;
+            }
+            else if(nums[mid] == 1) {
+                mid++;
+            }
+            else {
+                int temp=nums[right];
+                nums[right] = nums[mid];
+                nums[mid] = temp;
+                right--;
             }
         }
     }
