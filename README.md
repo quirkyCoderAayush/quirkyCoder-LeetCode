@@ -19,6 +19,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0118-pascals-triangle](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0031-next-permutation](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,8 +63,10 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
