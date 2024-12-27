@@ -23,6 +23,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0229-majority-element-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0493-reverse-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | ------- |
 | [0053-maximum-subarray](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0074-search-a-2d-matrix](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,4 +102,20 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
