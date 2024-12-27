@@ -7,7 +7,7 @@ class Solution {
             x = 1 / x;
             if (n == Integer.MIN_VALUE) {
                 n = Integer.MAX_VALUE;
-                return myPow(x, n) * x;
+                return myPow(x, n)*x;
             }
             n = -n;
         }
