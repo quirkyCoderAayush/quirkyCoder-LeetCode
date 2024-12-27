@@ -4,9 +4,8 @@ class Solution {
         int totalSteps = m + n - 2;
 
         long result = 1;
-
-        for (int i = 1; i <= smaller; i++) {
-            result = (result * (totalSteps - i + 1)) / i;
+        for(int i=1; i<=smaller; i++) {
+            result = (result*(totalSteps-i+1))/i;
         }
         return (int) result;
     }
