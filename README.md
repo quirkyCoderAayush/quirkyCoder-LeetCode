@@ -63,6 +63,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -76,4 +77,8 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | ------- |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
