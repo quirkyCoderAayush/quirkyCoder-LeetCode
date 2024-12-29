@@ -1,5 +1,6 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
+        if(s==null || s.length()==0) return 0;
         Map<Character, Integer> elements = new HashMap<>();
         int count = 0, left = 0;
 
