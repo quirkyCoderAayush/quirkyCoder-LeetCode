@@ -25,6 +25,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0169-majority-element](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -130,4 +132,8 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
