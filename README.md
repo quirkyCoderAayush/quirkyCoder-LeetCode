@@ -101,6 +101,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0206-reverse-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -142,4 +143,8 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
