@@ -9,8 +9,8 @@ class Solution {
             if(nums[i]==nums[i-1]) continue;
             if(nums[i]-nums[i-1] == 1) {
                 count++;
+                maxCount = Math.max(count, maxCount);
             }
-            maxCount = Math.max(count, maxCount);
             if(nums[i]-nums[i-1] != 1) {
                 count=1;
             }
