@@ -9,6 +9,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0048-rotate-image) |
@@ -56,6 +57,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0031-next-permutation) |
@@ -72,6 +74,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0075-sort-colors) |
