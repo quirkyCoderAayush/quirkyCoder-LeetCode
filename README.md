@@ -20,6 +20,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0088-merge-sorted-array](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
@@ -136,4 +138,8 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
