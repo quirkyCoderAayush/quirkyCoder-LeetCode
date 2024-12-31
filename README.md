@@ -82,6 +82,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0062-unique-paths) |
@@ -102,6 +103,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0206-reverse-linked-list) |
@@ -149,6 +151,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0206-reverse-linked-list) |
