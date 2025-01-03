@@ -64,6 +64,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0018-4sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0141-linked-list-cycle) |
@@ -167,6 +168,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0142-linked-list-cycle-ii) |
