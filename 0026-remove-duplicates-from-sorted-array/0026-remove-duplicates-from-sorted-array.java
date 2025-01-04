@@ -2,20 +2,17 @@ class Solution {
     public int removeDuplicates(int[] nums) {
 
         if (nums == null || nums.length == 0) {
-            return 0;
+            return 0; 
         }
-
-        Set<Integer> uniqueElements = new HashSet<>();
-
-        for (int num: nums) uniqueElements.add(num);
-
-        List<Integer> elementsList = new ArrayList<>(uniqueElements);
-        Collections.sort(elementsList);
-
-        for (int i = 0; i < elementsList.size(); i++) {
-            nums[i] = elementsList.get(i);
+        Arrays.sort(nums);
+        
+        int uniqueIndex = 1; 
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] != nums[i - 1]) {
+                nums[uniqueIndex] = nums[i];
+                uniqueIndex++;
+            }
         }
-
-        return elementsList.size();
+        return uniqueIndex;
     }
 }
