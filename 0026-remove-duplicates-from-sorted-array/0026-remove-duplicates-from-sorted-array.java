@@ -7,7 +7,7 @@ class Solution {
 
         Set<Integer> uniqueElements = new HashSet<>();
 
-        for (int num : nums) uniqueElements.add(num);
+        for (int num: nums) uniqueElements.add(num);
 
         List<Integer> elementsList = new ArrayList<>(uniqueElements);
         Collections.sort(elementsList);
