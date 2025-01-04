@@ -7,7 +7,7 @@ class Solution {
         int left_max = 0, right_max = 0;
         int water_trapped = 0;
 
-        while(left < right) {
+        while(left <= right) {
             if (height[left] <= height[right]) {
                 if (height[left] >= left_max) {
                     left_max = height[left];
