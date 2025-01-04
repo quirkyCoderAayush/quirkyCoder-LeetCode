@@ -1,7 +1,7 @@
 class Solution {
     public int trap(int[] height) {
         int n = height.length;
-        if (height == null || n == 0 || n==1) return 0;
+        if (height == null || n == 0) return 0;
 
         int left = 0, right = n - 1;
         int left_max = 0, right_max = 0;
