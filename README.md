@@ -32,6 +32,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0493-reverse-pairs](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0062-unique-paths](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -194,4 +197,12 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
