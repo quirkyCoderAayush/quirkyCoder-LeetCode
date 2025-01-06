@@ -4,15 +4,13 @@ class Solution {
 
         if(n==0 || nums==null) return 0;
 
-        Set<Integer> set = new HashSet<>();
-        for(int num: nums) set.add(num);
-
-        List<Integer> elements = new ArrayList<>(set);
-        Collections.sort(elements);
-
-        for(int i=0; i<elements.size(); i++) {
-            nums[i] = elements.get(i);
+        int i=1;
+        for(int j=1; j<n; j++) {
+            if(nums[j] != nums[j-1]) {
+                nums[i] = nums[j];
+                i++;
+            }
         }
-        return elements.size();
+        return i;
     }
 }
