@@ -164,6 +164,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Sliding Window
 |  |
@@ -200,6 +201,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | ------- |
 | [0042-trapping-rain-water](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Monotonic Stack
 |  |
