@@ -1,5 +1,6 @@
 class Solution {
     public String removeDuplicates(String s) {
+        if(s.length()==1) return s;
         char[] arr = s.toCharArray();
         int start = 0;
         
