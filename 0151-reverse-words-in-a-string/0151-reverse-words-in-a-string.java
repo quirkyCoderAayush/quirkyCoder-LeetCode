@@ -1,43 +1,40 @@
 class Solution {
     public String reverseWords(String s) {
-        int left = 0;
-        int right = s.length() - 1;
+        char[] chars = s.toCharArray();
+        int n = chars.length;
 
-        String temp = "";
-        String ans = "";
+        reverse(chars, 0, n - 1);
 
-        while (left <= right && s.charAt(left) == ' ') {
-            left++;
+        int start = 0;
+        for (int i = 0; i < n; i++) {
+            if (chars[i] == ' ') {
+                reverse(chars, start, i - 1);
+                start = i + 1;
+            } else if (i == n - 1) {
+                reverse(chars, start, i);
+            }
         }
-        while (right >= left && s.charAt(right) == ' ') {
+
+        return cleanSpaces(chars, n);
+    }
+    private void reverse(char[] chars, int left, int right) {
+        while (left < right) {
+            char temp = chars[left];
+            chars[left] = chars[right];
+            chars[right] = temp;
+            left++;
             right--;
         }
+    }
+    private String cleanSpaces(char[] chars, int n) {
+        int i = 0, j = 0;
 
-        while (left <= right) {
-            char ch = s.charAt(left);
-
-            if (ch != ' ') {
-                temp += ch;
-            } else if (ch == ' ') {
-                if (!temp.equals("")) {
-                    if (!ans.equals("")) {
-                        ans = temp + " " + ans; 
-                    } else {
-                        ans = temp;
-                    }
-                    temp = ""; 
-                }
-            }
-            left++;
+        while (j < n) {
+            while (j < n && chars[j] == ' ') j++;
+            while (j < n && chars[j] != ' ') chars[i++] = chars[j++];
+            while (j < n && chars[j] == ' ') j++;
+            if (j < n) chars[i++] = ' ';
         }
-
-        if (!temp.equals("")) {
-            if (!ans.equals("")) {
-                ans = temp + " " + ans;
-            } else {
-                ans = temp;
-            }
-        }
-        return ans; 
+        return new String(chars, 0, i);
     }
 }
