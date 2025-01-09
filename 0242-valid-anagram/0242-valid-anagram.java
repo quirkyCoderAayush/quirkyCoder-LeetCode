@@ -17,6 +17,12 @@ class Solution {
                 mpp.put(ch, mpp.get(ch)-1);
             }
         }
+        
+        for (int count : mpp.values()) {
+            if (count != 0) {
+                return false;
+            }
+        }
         return true;
 
 
