@@ -61,6 +61,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0062-unique-paths) |
@@ -69,6 +70,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -165,6 +167,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0242-valid-anagram) |
