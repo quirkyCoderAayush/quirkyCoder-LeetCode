@@ -14,6 +14,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0026-remove-duplicates-from-sorted-array](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0053-maximum-subarray) |
@@ -238,5 +239,6 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
