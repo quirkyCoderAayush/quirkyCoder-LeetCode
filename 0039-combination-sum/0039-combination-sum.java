@@ -3,7 +3,6 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
         List<Integer> current = new ArrayList<>();
         int n = candidates.length; int start=0;
-        Arrays.sort(candidates);
 
         helper(candidates, start, target, current, result);
         return result;
