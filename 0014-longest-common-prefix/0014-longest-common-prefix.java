@@ -1,7 +1,6 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         StringBuilder sb = new StringBuilder();
-        //  strs = ["flight", "flow", "flower"]
         int n=strs.length;
         Arrays.sort(strs);
         String first = strs[0];
