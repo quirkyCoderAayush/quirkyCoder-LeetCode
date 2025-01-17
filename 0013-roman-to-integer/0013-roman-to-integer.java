@@ -17,9 +17,7 @@ class Solution {
             if (i<n-1 && currentVal<romanMap.get(s.charAt(i + 1))) {
                 result-= currentVal;
             } 
-            else {
-                result+=currentVal;
-            }
+            else result+=currentVal;
         }
         return result;
     }
