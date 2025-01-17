@@ -41,6 +41,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -114,6 +115,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0062-unique-paths) |
@@ -172,6 +174,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0151-reverse-words-in-a-string) |
