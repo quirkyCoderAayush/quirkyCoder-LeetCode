@@ -5,9 +5,9 @@ class Solution {
             'C', 100, 'D', 500, 'M', 1000
         );
 
-        int result = 0, prev = 0;
+        int n=s.length(), result = 0, prev = 0;
 
-        for (int i=s.length()-1; i>=0; i--) {
+        for (int i=n-1; i>=0; i--) {
             int current = romanMap.get(s.charAt(i));
             result += (current>=prev) ? current : -current;
             prev = current;
