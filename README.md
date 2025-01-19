@@ -88,6 +88,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0142-linked-list-cycle-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0455-assign-cookies) |
@@ -179,6 +180,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0014-longest-common-prefix](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0242-valid-anagram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
