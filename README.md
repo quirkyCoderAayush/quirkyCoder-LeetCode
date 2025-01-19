@@ -179,6 +179,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0013-roman-to-integer](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0242-valid-anagram) |
