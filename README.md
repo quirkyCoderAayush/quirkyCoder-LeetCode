@@ -221,6 +221,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0020-valid-parentheses](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
@@ -258,12 +259,15 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
