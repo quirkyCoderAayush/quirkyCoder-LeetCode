@@ -16,6 +16,9 @@
 class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
 
+        List<List<Integer>> result = new ArrayList<>();
+        if(root == null) return result;
+
         TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map = new TreeMap<>();
         Queue<Pair> q = new LinkedList<>();
         q.add(new Pair(0, 0, root));
@@ -37,7 +40,6 @@ class Solution {
             }
         }
 
-        List<List<Integer>> result = new ArrayList<>();
         for (TreeMap<Integer, PriorityQueue<Integer>> rows : map.values()) {
             List<Integer> vertical = new ArrayList<>();
             for (PriorityQueue<Integer> nodes : rows.values()) {
