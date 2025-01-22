@@ -15,42 +15,50 @@
  */
 class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        TreeMap<Integer, List<int[]>> columnMap = new TreeMap<>();
-        Queue<TreeNodeInfo> queue = new LinkedList<>();
-        queue.offer(new TreeNodeInfo(root, 0, 0));
-        
-        while (!queue.isEmpty()) {
-            TreeNodeInfo info = queue.poll();
-            columnMap.putIfAbsent(info.column, new ArrayList<>());
-            columnMap.get(info.column).add(new int[] { info.row, info.node.val });
-            
-            if (info.node.left != null) 
-                queue.offer(new TreeNodeInfo(info.node.left, info.column - 1, info.row + 1));
-            if (info.node.right != null) 
-                queue.offer(new TreeNodeInfo(info.node.right, info.column + 1, info.row + 1));
+
+        TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map = new TreeMap<>();
+        Queue<Pair> q = new LinkedList<>();
+        q.add(new Pair(0, 0, root));
+
+        while (!q.isEmpty()) {
+            Pair curr = q.poll();
+            int hd = curr.hd;
+            int row = curr.row;
+
+            map.putIfAbsent(hd, new TreeMap<>());
+            map.get(hd).putIfAbsent(row, new PriorityQueue<>());
+            map.get(hd).get(row).add(curr.node.val);
+
+            if (curr.node.left != null) {
+                q.add(new Pair(hd - 1, row + 1, curr.node.left));
+            }
+            if (curr.node.right != null) {
+                q.add(new Pair(hd + 1, row + 1, curr.node.right));
+            }
         }
-        
+
         List<List<Integer>> result = new ArrayList<>();
-        for (List<int[]> nodes : columnMap.values()) {
-            nodes.sort((a, b) -> a[0] == b[0] ? a[1] - b[1] : a[0] - b[0]);
-            List<Integer> columnList = new ArrayList<>();
-            for (int[] node : nodes) columnList.add(node[1]);
-            result.add(columnList);
+        for (TreeMap<Integer, PriorityQueue<Integer>> rows : map.values()) {
+            List<Integer> vertical = new ArrayList<>();
+            for (PriorityQueue<Integer> nodes : rows.values()) {
+                while (!nodes.isEmpty()) {
+                    vertical.add(nodes.poll());
+                }
+            }
+            result.add(vertical);
         }
-        
         return result;
     }
 
-    private static class TreeNodeInfo {
-        TreeNode node;
-        int column;
+    static class Pair {
+        int hd;
         int row;
+        TreeNode node;
 
-        TreeNodeInfo(TreeNode node, int column, int row) {
-            this.node = node;
-            this.column = column;
+        public Pair(int hd, int row, TreeNode node) {
+            this.hd = hd;
             this.row = row;
+            this.node = node;
         }
     }
-}    
-    
+}
