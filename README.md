@@ -261,6 +261,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -268,6 +269,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -275,12 +277,14 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
