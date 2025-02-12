@@ -37,6 +37,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0485-max-consecutive-ones](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
@@ -58,6 +59,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3634-find-mirror-score-of-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Matrix
@@ -121,6 +123,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
 |  |
 | ------- |
@@ -308,4 +311,8 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0104-maximum-depth-of-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
