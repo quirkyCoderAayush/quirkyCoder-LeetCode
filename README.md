@@ -88,6 +88,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0018-4sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0061-rotate-list) |
@@ -194,6 +195,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0013-roman-to-integer](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0165-compare-version-numbers) |
@@ -322,4 +324,8 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
