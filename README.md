@@ -57,6 +57,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0229-majority-element-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -164,6 +165,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | ------- |
 | [0169-majority-element](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0151-reverse-words-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Sliding Window
@@ -315,4 +318,8 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
