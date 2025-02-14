@@ -328,4 +328,8 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0596-classes-more-than-5-students](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
