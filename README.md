@@ -33,6 +33,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0229-majority-element-ii](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0416-partition-equal-subset-sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0493-reverse-pairs) |
@@ -80,6 +81,7 @@ Welcome to quirkyCoder-LeetCode🙌 – where I solve problems, one bug at a tim
 | [0118-pascals-triangle](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/quirkyCoderAayush/quirkyCoder-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Two Pointers
 |  |
 | ------- |
